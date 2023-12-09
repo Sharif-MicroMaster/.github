@@ -1,4 +1,4 @@
-## Hi there 👋
+## This repository is for the Sharif Micromaster.
 
 <!--
 
