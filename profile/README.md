@@ -1,12 +1,3 @@
-## This repository is for the Sharif Micromaster.
+## Sharif Micromaster
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Micromasters programs are a series of master-level courses from the Sharif University of Technology with a vision of providing life-transforming، high-quality learning experiences to enthusiastic learners around the country. Today, Micromaster is an accessible online learning platform that offers anyone, anywhere in Iran, access to online specialized courses and degrees from a leading university to advance students’ future careers.
