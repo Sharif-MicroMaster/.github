@@ -7,3 +7,5 @@ Micromasters programs are a series of master-level courses from the Sharif Unive
     style="width: 700px;"
     src="https://github.com/Sharif-MicroMaster/.github/blob/main/Department.jpg">
 </div>
+
+You can learn more about the program on the official website: [Sharif Micromaster](https://micro.ce.sharif.edu).
